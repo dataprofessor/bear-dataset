@@ -12,8 +12,8 @@ The four species included are:
 The dataset is composed of two main parts:
 
 1. Tabular Data (`bear_raw_data.csv`): The first portion of the data contains physical measurements for each bear. The columns are as follows:
-- ID: A unique identifier for each bear instance.
-- Species: The species of the bear.
+- ID - A unique identifier for each bear instance.
+- Species - The species of the bear.
 - Body_Mass_kg
 - Shoulder_Hump_Height_cm
 - Claw_Length_cm
