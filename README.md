@@ -20,7 +20,7 @@ The dataset is composed of two main parts:
 - Snout_Length_cm
 - Forearm_Circumference_cm
 - Ear_Length_cm
-2. Image Data (`images/` folder): The second portion is a collection of images, where each image corresponds to a unique ID from the tabular data. This allows for visual analysis and the extraction of image-based features.
+2. Image Data (`images/` folder): The second portion is a collection of images, where each image corresponds to a unique ID from the tabular data (*e.g.* `ABB_01`, `EUR_01`, `GRZ_01` and `KDK`). This allows for visual analysis and the extraction of image-based features.
 
 <table>
   <tr>
