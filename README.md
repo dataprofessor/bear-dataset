@@ -11,7 +11,7 @@ The four species included are:
 ## Dataset Structure
 The dataset is composed of two main parts:
 
-1. Tabular Data: The first portion of the data contains physical measurements for each bear. The columns are as follows:
+1. Tabular Data (`bear_raw_data.csv`): The first portion of the data contains physical measurements for each bear. The columns are as follows:
 - ID: A unique identifier for each bear instance.
 - Species: The species of the bear.
 - Body_Mass_kg
@@ -20,7 +20,7 @@ The dataset is composed of two main parts:
 - Snout_Length_cm
 - Forearm_Circumference_cm
 - Ear_Length_cm
-2. Image Data: The second portion is a collection of images, where each image corresponds to a unique ID from the tabular data. This allows for visual analysis and the extraction of image-based features.
+2. Image Data (`images/` folder): The second portion is a collection of images, where each image corresponds to a unique ID from the tabular data. This allows for visual analysis and the extraction of image-based features.
 
 <table>
   <tr>
