@@ -1,5 +1,6 @@
 # bear-dataset
 
+## Overview
 This dataset contains both tabular data and images for 200 bears, categorized into four different species. Each species is represented by 50 individual instances, providing a balanced, multi-modal collection for tasks like image classification, feature analysis, and data fusion.
 
 The four species included are:
@@ -8,7 +9,7 @@ The four species included are:
 - Grizzly Bear
 - Kodiak Bear
 
-## Dataset Structure
+## About the Dataset
 The dataset is composed of two main parts:
 
 1. Tabular Data (`bear_raw_data.csv`): The first portion of the data contains physical measurements for each bear. The columns are as follows:
