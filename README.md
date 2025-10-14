@@ -11,7 +11,7 @@ The four species included are:
 ## About the Dataset
 The dataset is composed of two main parts:
 
-1. Tabular Data (`bear_raw_data.csv`): The first portion of the data contains physical measurements for each bear. The columns are as follows:
+1. Tabular Data (`bear_raw_data.csv`): The first portion of the data contains physical measurements for each bear as expressed by the columns as follows:
 
 | Column                      | Description                                                  |
 | --------------------------- | ------------------------------------------------------------ |
