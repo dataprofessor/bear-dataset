@@ -1,4 +1,4 @@
-ID,Species,Body_Mass_kg,Shoulder_Hump_Height_cm,Claw_Length_cm,Snout_Length_cm,Forearm_Circumference_cm,Ear_Length_cm,Fur_Color,Facial_Profile,Paw_Pad_Texture
+id,species,body_mass_kg,shoulder_hump_height_cm,claw_length_cm,snout_length_cm,forearm_circumference_cm,ear_length_cm,fur_color,facial_profile,paw_pad_texture
 GRZ_01,Grizzly Bear,226.4,11.6,6.5,22.9,45.4,9.4,Dark Brown,Dished,Smooth
 GRZ_02,Grizzly Bear,295.8,17.3,8.9,21.1,47.1,8.8,Light Brown,Dished,Smooth
 GRZ_03,Grizzly Bear,235.0,16.1,9.3,25.2,44.1,9.2,Light Brown,Dished,Smooth
