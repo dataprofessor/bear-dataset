@@ -57,8 +57,8 @@ The dataset is composed of two main parts:
 
 ## Identifying the species
 
-These physical measurements are key differentiators between bear species. For example, the presence of a prominent shoulder hump (`Shoulder_Hump_Height_cm`) and a "concave" or "dished" facial profile are characteristic of brown bears (Grizzly, Kodiak, Eurasian). 
+These physical measurements are key differentiators between bear species. For example, the presence of a prominent shoulder hump (`shoulder_hump_height_cm`) and a "concave" or "dished" facial profile are characteristic of brown bears (Grizzly, Kodiak, Eurasian). 
 
-In contrast, the absence of a shoulder hump and a straight "Roman nose" facial profile are key features of the American Black Bear. Additionally, features related to paw structure, like the shorter, more curved claws (`Claw_Length_cm`) of an American Black Bear, are adapted for climbing, distinguishing them from the long, straighter claws of brown bears, which are built for digging.
+In contrast, the absence of a shoulder hump and a straight "Roman nose" facial profile are key features of the American Black Bear. Additionally, features related to paw structure, like the shorter, more curved claws (`claw_length_cm`) of an American Black Bear, are adapted for climbing, distinguishing them from the long, straighter claws of brown bears, which are built for digging.
 
 These and other defining features can also be deduced from machine learning efforts through exploratory data analysis (EDA) and feature analysis.
