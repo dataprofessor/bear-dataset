@@ -15,14 +15,14 @@ The dataset is composed of two main parts:
 
 | Column                      | Description                                                  |
 | --------------------------- | ------------------------------------------------------------ |
-| `ID`                        | A unique identifier for each bear instance.                  |
-| `Species`                   | The species of the bear.                                     |
-| `Body_Mass_kg`              | The body mass of the bear, measured in kilograms (kg).         |
-| `Shoulder_Hump_Height_cm`   | The height of the bear's shoulder hump, measured in centimeters (cm). |
-| `Claw_Length_cm`            | The length of the bear's claws, measured in centimeters (cm).  |
-| `Snout_Length_cm`           | The length of the bear's snout, measured in centimeters (cm).  |
-| `Forearm_Circumference_cm`  | The circumference of the bear's forearm, measured in centimeters (cm). |
-| `Ear_Length_cm`             | The length of the bear's ears, measured in centimeters (cm).   |
+| `id`                        | A unique identifier for each bear instance.                  |
+| `species`                   | The species of the bear.                                     |
+| `body_mass_kg`              | The body mass of the bear, measured in kilograms (kg).         |
+| `shoulder_hump_height_cm`   | The height of the bear's shoulder hump, measured in centimeters (cm). |
+| `claw_length_cm`            | The length of the bear's claws, measured in centimeters (cm).  |
+| `snout_length_cm`           | The length of the bear's snout, measured in centimeters (cm).  |
+| `forearm_circumference_cm`  | The circumference of the bear's forearm, measured in centimeters (cm). |
+| `ear_length_cm`             | The length of the bear's ears, measured in centimeters (cm).   |
 
 2. Image Data (`images/` folder): The second portion is a collection of images, where each image corresponds to a unique ID from the tabular data (*e.g.* `ABB_01`, `EUR_01`, `GRZ_01` and `KDK_01`). This allows for visual analysis and the extraction of image-based features.
 
