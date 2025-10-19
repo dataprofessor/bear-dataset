@@ -1,6 +1,6 @@
 # The Bear Dataset
 
-This dataset contains both tabular data and images for 200 brown and black bears, categorized into four species. Each species is represented by 50 individual instances, providing a balanced, multi-modal collection for tasks like image classification, feature analysis, and data fusion.
+This dataset contains both tabular data and images for 200 brown and black bears, categorized into four species. Each species is represented by 50 individual instances, providing a balanced, multi-modal collection (CSV and image data) for tasks like image classification, feature analysis, and data fusion.
 
 The four species included are:
 - American Black Bear (*Ursus americanus*)
