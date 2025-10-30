@@ -22,6 +22,8 @@ column_config = {
 
 # Display the dataframe
 st.title("🐻 Bear Data Set")
+st.warning("A classification data set comprising of 200 bears belonging to 4 species.")
+
 data = load_data()
 st.dataframe(
         data,
